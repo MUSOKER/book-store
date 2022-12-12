@@ -1,2 +1,2 @@
 BOOK STORE BACKEND API
-run npm star-dev to start the api in dev mode
+run npm start-dev to start the api in dev mode
